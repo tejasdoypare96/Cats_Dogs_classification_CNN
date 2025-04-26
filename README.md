@@ -34,7 +34,7 @@ The model achieves a significant accuracy in classifying cat and dog images. The
   1) Data Augmentation: Implement data augmentation techniques to improve model robustness.
   2) Transfer Learning: Experiment with pre-trained models like VGG16 or ResNet to potentially increase accuracy.
 
-
+ 
 ## Acknowledgments
   1) Kaggle for providing the dataset.
   2) TensorFlow and Keras teams for developing such powerful tools for deep learning.
