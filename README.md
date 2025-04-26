@@ -1,7 +1,7 @@
 # Cat vs. Dog Classification Using CNN
 This project is a Convolutional Neural Network (CNN) implementation for classifying images of cats and dogs. The model is trained using Keras and TensorFlow on a dataset of labeled images and achieves high accuracy in distinguishing between the two classes.
 
-## Project Structure
+## Project Structure 
 Cats_Dogs_classification_CNN.ipynb: The main Jupyter Notebook file containing the code for data preprocessing, model building, training, and evaluation.
 
 ## Usage
